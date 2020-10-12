@@ -1,5 +1,5 @@
-# synosis-vii-d-avms
-synosis-vii-d-avms created by GitHub Classroom
+# synopsis-vii-d-avms
+synopsis-vii-d-avms created by GitHub Classroom
 
 Mini Project
  
